@@ -1,0 +1,19 @@
+{
+  "name": "digi-node-demo-app",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "color-scale": "*",
+    "type-rhythm-scale": "*"
+  }
+}
